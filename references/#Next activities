@@ -1,0 +1,16 @@
+#Next activities
+
+#Read the pickled file and tokenize and lemmatize the text.
+#Remove fluff
+#Sentiment analysis of each document.
+#Topic modelling
+
+#Extra variables
+#Run authors vs. 
+     Google Scholar wrapper API: https://pypi.python.org/pypi/scholarly/0.2
+     DBpedia wrapper API: 
+          http://www.programmableweb.com/api/dbpedia
+          http://www.slideshare.net/m_ackermann/d-bpedia-tutorialdublin2015
+          http://www.cambridgesemantics.com/semantic-university/sparql-by-example#%281%29
+          
+#Crosstab both. What is the relationship between discipline/age and sentiment/topic focus? 
